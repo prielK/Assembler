@@ -1,0 +1,3 @@
+(In line: 19) The number is smaller than the minimum or larger than the maximum possible.
+(In line: 25) The number is smaller than the minimum or larger than the maximum possible.
+X Errors found, file compilation unsuccessful. X

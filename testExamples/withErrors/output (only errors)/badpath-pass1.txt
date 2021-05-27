@@ -1,0 +1,29 @@
+----------------
+badpath-pass1
+----------------
+Starting to process the file: ./badpath-pass1.as
+(In line: 18) Missing operand.
+(In line: 21) Command can't end with a comma.
+(In line: 24) Missing operand.
+(In line: 39) The following command doesn't exist: and.
+(In line: 42) The following command doesn't exist: jSr.
+(In line: 45) Illigal comma.
+(In line: 48) Too many parameters.(In line: 51) Too many parameters.(In line: 54) Following symbol name must start with an alphabetic character: 48.
+(In line: 57) Too many parameters.(In line: 69) Incompatible addressing method.
+(In line: 75) Incompatible addressing method.
+(In line 84) Syntax error: no data or no delimiter found.
+(In line: 96) Illigal comma.
+(In line: 99) Command can't end with a comma.
+(In line 102) Syntax error: value is not an integer.
+(In line 105) Syntax error: value is not an integer.
+(In line 108) Syntax error: value is not an integer.
+(In line: 111) Following symbol name is a saved word: mov.
+(In line: 123) Following symbol name must start with an alphabetic character: 1DATA.
+(In line: 144) The following command doesn't exist: DATA2.
+(In line: 147) The following command doesn't exist: .DATA.
+(In line: 153) String must start with a quotation mark.
+(In line: 156) Illigal string command - extra text after quotations.
+(In line: 162) Following symbol name is too long: SuperCalifragilisticExpiAlidocious.
+(In line: 168) Missing operand.(In line: 171) The following command doesn't exist: .invalid.
+(In line: 177) Incompatible addressing method.
+X Errors found, file compilation unsuccessful. X

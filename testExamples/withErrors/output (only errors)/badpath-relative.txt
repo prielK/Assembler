@@ -1,0 +1,12 @@
+-----------------
+badpath-relative
+-----------------
+Starting to process the file: ./badpath-relative.as
+(In line: 27) Incompatible addressing method.
+(In line: 30) Incompatible addressing method.
+(In line: 33) Incompatible addressing method.
+(In line: 36) Following symbol name must start with an alphabetic character: %start.
+(In line: 39) Missing operand.(In line: 39) Too many parameters.(In line: 42) Following symbol name must start with an alphabetic character: 42.
+(In line: 45) Following symbol name must start with an alphabetic character: 5xy.
+(In line: 48) Incompatible addressing method.
+X Errors found, file compilation unsuccessful. X

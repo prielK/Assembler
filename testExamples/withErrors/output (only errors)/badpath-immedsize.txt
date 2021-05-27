@@ -1,0 +1,5 @@
+----------------
+badpath-immedsize
+----------------
+Starting to process the file: ./badpath-immedsize.as
+(In line: 19) Invalid operand - value exceeds limits.(In line: 25) Invalid operand - value exceeds limits.X Errors found, file compilation unsuccessful. X

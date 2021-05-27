@@ -1,0 +1,8 @@
+----------------
+badpath-pass2
+----------------
+Starting to process the file: ./badpath-pass2.as
+(In line: 52) Cannot find symbol: Q.
+(In line: 52) Cannot find symbol: X.
+(In line: 52) Cannot find symbol: Y.
+X Errors found, file compilation unsuccessful. X
